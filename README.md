@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 Senior Solution Architect 
 -------------------------
-14 + years of experience in Virtualization, Cloud Compute and DevOps, I am also a Python and Go Developer.  * 🌍  I'm based in Bangalore * ✉️  You can contact me at [pavan@prag-matic.com](mailto:pavan_2004it@hotmail.com) * 🧠  I'm learning Rust * 🤝  I'm open to collaborating on Go, Python * ⚡  I am King Of Automation
+14 + years of experience in Virtualization, Cloud Compute and DevOps, I am also a Python and Go Developer.  * 🌍  I'm based in Bangalore * ✉️  You can contact me at [pavan@prag-matic.com](mailto:pavan@prag-matic.com) * 🧠  I'm learning Rust * 🤝  I'm open to collaborating on Go, Python * ⚡  I am King Of Automation
 
 Skills  
 
